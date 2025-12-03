@@ -18,14 +18,15 @@
 
 ---
 
-### 🎯 About Me
+### 👋 About Me
+
+Glad to see you here! I'm Vinuta Patil, a **Software Engineer** and **Master's student** at San Jose State University with a strong passion for building **intelligent full-stack applications** powered by **AI/ML**. I'm honored to be **Runner-up at the LLM x Law Hackathon** held at **Stanford Law School**! With a knack for building **RAG systems** and **scalable microservices**, I balance code with exploring new AI technologies 🤖 and find joy in solving real-world problems through innovation 💡.
+
+Currently, I'm a **Software Engineer Intern** at **Mimirchat** (Startup), building production-grade **RAG pipelines** with AWS Lambda, Bedrock, and multi-LLM optimization. Before this, I spent over a year at **Win Information Technology** building microservices with Flask, Kafka, and Kubernetes. My notable contributions include developing **multimodal RAG chatbots** achieving **85%+ accuracy** and building the **Adalat Tax-Copilot** for legal document analysis. I'm actively exploring **multi-agent systems**, **LLM optimization**, and **AI infrastructure** for my graduate research.
 
 🎓 **MS in Software Engineering** @ San Jose State University | Graduating May 2026  
 💼 **Software Engineer Intern** @ Mimirchat (Startup) - Building production RAG systems  
 🏆 **Runner-up** @ LLM x Law Hackathon - Stanford Law School  
-
-I'm passionate about building **intelligent full-stack applications** that bridge **AI/ML** and **cloud technologies**. Currently focused on **RAG systems**, **multi-agent architectures**, and **LLM optimization**.
-
 📍 Based in **San Jose, CA** | 🔍 Open to **Full-Time SWE/AI roles**
 
 ---
