@@ -24,11 +24,6 @@ Glad to see you here! I'm Vinuta Patil, a **Software Engineer** and **Master's s
 
 Previously, I worked as a **Software Engineer Intern** at **Mimirchat** (Startup), building production-grade **RAG pipelines** with AWS Lambda, Bedrock, and multi-LLM optimization. Before this, I spent over a year at **Win Information Technology** building microservices with Flask, Kafka, and Kubernetes. My notable contributions include developing **multimodal RAG chatbots** achieving **85%+ accuracy** and building the **Adalat Tax-Copilot** for legal document analysis. I'm actively exploring **multi-agent systems**, **LLM optimization**, and **AI infrastructure** for my graduate research.
 
-🎓 **MS in Software Engineering** @ San Jose State University | Graduating May 2026  
-💼 **Software Engineer Intern** @ Mimirchat (Startup) - Building production RAG systems  
-🏆 **Runner-up** @ LLM x Law Hackathon - Stanford Law School  
-📍 Based in **San Jose, CA** | 🔍 Open to **Full-Time SWE/AI roles**
-
 ---
 
 ### 🚀 What I'm Building
